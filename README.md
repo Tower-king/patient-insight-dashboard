@@ -26,4 +26,4 @@ Files Included:
 - Dashboard preview image
 
 Dashboard Preview
-![Dashboard Preview](IMAGE_LINK_HERE)
+![Dashboard Preview](https://github.com/Tower-king/patient-insight-dashboard/blob/main/dashboard.JPG?raw=true)
