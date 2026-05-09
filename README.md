@@ -10,9 +10,21 @@ Objectives:
 . Generate actionable healthcare insights
 
 Tools used:
-. Power BI
-. Excel
-. DAX
+. Power BI - curated an interactive dashboard with dynamic visualizations
+. Microsoft Excel 
+. DAX(Data Analysis Expression)
+
+Dashboard Features:
+- KPI Cards for patient volume, billingand hospital stay duration
+- Disease Distribution analysis
+- Monthly admission trends
+- Admission type breakdown
+- Gender demographic analysis
+- Interactive slicers for filtering
+
+DAX Measures used:
+Average Billing = AVERAGE(Patients[Billing Amount])
+Average Stay Duration = AVERAGE(Patients[Length of Stay])
 
 Key Insights:
 - Diabetes was the most common medical condition
